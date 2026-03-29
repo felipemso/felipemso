@@ -14,7 +14,7 @@
 ***
 
 <div style="text-align: justify; text-indent: 40px;">
-    Meu chamo Felipe Melo, sou natural de Brasília e graduando em Engenharia de Software pela UnB. Tenho forte interesse no setor de tecnologia, direcionando meus estudos e projetos principalmente para Inteligência Artificial, Machine Learning e Visão Computacional
+    Me chamo Felipe Melo, sou natural de Brasília e graduando em Engenharia de Software pela UnB. Tenho forte interesse no setor de tecnologia, direcionando meus estudos e projetos principalmente para Inteligência Artificial, Machine Learning e Visão Computacional
 
 <br>
 </div>
